@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CBA6B50-6C44-48D6-81BB-993778B12984}|SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.bl\\sysseguridad2g05.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6CBA6B50-6C44-48D6-81BB-993778B12984}|SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj|solutionrelative:sysseguridad2g05.bl\\sysseguridad2g05.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A8A2B7D6-FD85-8526-D48C-92877B72C798}|SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.bl\\sysseguridad2g05.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8A2B7D6-FD85-8526-D48C-92877B72C798}|SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj|solutionrelative:sysseguridad2g05.bl\\sysseguridad2g05.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SysSeguridad2G05.BL",
-              "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
-              "RelativeDocumentMoniker": "SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
-              "ToolTip": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
-              "RelativeToolTip": "SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T14:57:53.232Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -50,8 +37,17 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SysSeguridad2G05.BL.csproj",
+              "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
+              "RelativeDocumentMoniker": "SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
+              "ToolTip": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
+              "RelativeToolTip": "SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T14:57:53.232Z",
+              "EditorCaption": ""
             }
           ]
         }

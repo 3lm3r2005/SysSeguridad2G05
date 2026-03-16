@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "SysSeguridad2G05.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "SysSeguridad2G05.EN": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SysSeguridad2G05.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SysSeguridad2G05.DAL.dll": {}
+        }
+      },
+      "SysSeguridad2G05.EN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/SysSeguridad2G05.EN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SysSeguridad2G05.EN.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SysSeguridad2G05.DAL/1.0.0": {
+      "type": "project",
+      "path": "../SysSeguridad2G05.DAL/SysSeguridad2G05.DAL.csproj",
+      "msbuildProject": "../SysSeguridad2G05.DAL/SysSeguridad2G05.DAL.csproj"
+    },
+    "SysSeguridad2G05.EN/1.0.0": {
+      "type": "project",
+      "path": "../SysSeguridad2G05.EN/SysSeguridad2G05.EN.csproj",
+      "msbuildProject": "../SysSeguridad2G05.EN/SysSeguridad2G05.EN.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "SysSeguridad2G05.DAL >= 1.0.0",
+      "SysSeguridad2G05.EN >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Elmer\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj": {
+              "projectPath": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj"
+            },
+            "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj": {
+              "projectPath": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
