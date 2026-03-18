@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.dal\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|solutionrelative:sysseguridad2g05.dal\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.en\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|solutionrelative:sysseguridad2g05.en\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.en\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|solutionrelative:sysseguridad2g05.en\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.dal\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|solutionrelative:sysseguridad2g05.dal\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.en\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|solutionrelative:sysseguridad2g05.en\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.dal\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BE1211-7D9C-A03F-922B-AF47DC004A2F}|SysSeguridad2G05.DAL\\SysSeguridad2G05.DAL.csproj|solutionrelative:sysseguridad2g05.dal\\roldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.en\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EE9F15-2305-1312-768C-663714C21384}|SysSeguridad2G05.EN\\SysSeguridad2G05.EN.csproj|solutionrelative:sysseguridad2g05.en\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8A2B7D6-FD85-8526-D48C-92877B72C798}|SysSeguridad2G05.BL\\SysSeguridad2G05.BL.csproj|c:\\prueba md 2\\nueva carpeta\\sysseguridad2g05\\sysseguridad2g05.bl\\sysseguridad2g05.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RolDAL.cs",
               "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.DAL\\RolDAL.cs",
               "RelativeDocumentMoniker": "SysSeguridad2G05.DAL\\RolDAL.cs",
               "ToolTip": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.DAL\\RolDAL.cs",
               "RelativeToolTip": "SysSeguridad2G05.DAL\\RolDAL.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T14:02:33.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DBContexto.cs",
               "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.DAL\\DBContexto.cs",
               "RelativeDocumentMoniker": "SysSeguridad2G05.DAL\\DBContexto.cs",
@@ -75,23 +75,25 @@
               "RelativeToolTip": "SysSeguridad2G05.DAL\\DBContexto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T13:56:18.477Z"
+              "WhenOpened": "2026-03-18T13:56:18.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.EN\\Usuario.cs",
               "RelativeDocumentMoniker": "SysSeguridad2G05.EN\\Usuario.cs",
               "ToolTip": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.EN\\Usuario.cs",
               "RelativeToolTip": "SysSeguridad2G05.EN\\Usuario.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA7wDYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:26:00.962Z"
+              "WhenOpened": "2026-03-16T16:26:00.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Prueba md 2\\Nueva carpeta\\SysSeguridad2G05\\SysSeguridad2G05.EN\\Rol.cs",
               "RelativeDocumentMoniker": "SysSeguridad2G05.EN\\Rol.cs",

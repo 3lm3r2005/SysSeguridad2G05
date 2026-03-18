@@ -8,8 +8,11 @@ namespace SysSeguridad2G05.EN
 {
     public class Usuario
     {
+        /// <summary>
+        /// 
+        /// </summary>
         [Key]
-       public  int Id { get; set; }
+        public int Id { get; set; }
         [ForeignKey("Rol")]
         [Required(ErrorMessage = "El Rol es obligatorio.")]
         [Display(Name = "Rol")]
