@@ -48,12 +48,12 @@ namespace SysSeguridad2G05.DAL
             return result;
         }
 
-        public static async Task<Rol> ObtenerPorIdAsync(int id)
+        public static async Task<Rol> ObtenerPorIdAsync(Rol pRol)
         {
             Rol rol = null;
             using (var dbContexto = new DBContexto())
             {
-                rol = await dbContexto.Rol.FirstOrDefaultAsync(s => s.Id == id);
+                rol = await dbContexto.Rol.FirstOrDefaultAsync(s => s.Id == pRol.Id);
             }
             return rol;
         }

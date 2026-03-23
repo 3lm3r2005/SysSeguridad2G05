@@ -33,8 +33,9 @@ namespace SysSeguridad2G05.EN
         [Required(ErrorMessage = "Password es Obligatorio.")]
         public string password { get; set; }
         [Display(Name = "Fecha Registro")]
+       
         public DateTime FechaRegistro { get; set; }
-
+        public byte Estatus { get; set; }
         public Rol Rol { get; set; }
         [NotMapped]
         public  int Top_Aux { get; set; }

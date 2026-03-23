@@ -13,7 +13,7 @@ namespace SysSeguridad2G05.DAL
         public DbSet<Usuario> Usuario { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=ELMERPORTILLO\\\\SQLEXPRESS;Initial Catalog=DbSysSeguridad;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30");
+            optionsBuilder.UseSqlServer(@"Data Source=ElmerPortillo\SQLEXPRESS;Initial Catalog=DbSysSeguridad;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30");
         }
     }
 }
